@@ -32,11 +32,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647067330,
-        "narHash": "sha256-zyuORqawM0MebdD3ngpWIk8/MtRiAm+MRjheOQ3+iAs=",
+        "lastModified": 1647113354,
+        "narHash": "sha256-QlrIWBNT9b9sJIMfbPQ2R9DdB+AoG1LcvQCCW3Rrc9E=",
         "owner": "nim-nix-pkgs",
         "repo": "httpkit",
-        "rev": "fab6b9cdadc65301e415b488159ca4dc08faadb2",
+        "rev": "dc18b972da1658af9d75a67ca1e7121f49c0fa97",
         "type": "github"
       },
       "original": {
@@ -59,13 +59,20 @@
         "src-httpkit-master": "src-httpkit-master"
       },
       "locked": {
-        "narHash": "sha256-J0mABfNr977zLwFDLv5qjj5t+un+/haCOxPJGfiCxdo=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647113354,
+        "narHash": "sha256-QlrIWBNT9b9sJIMfbPQ2R9DdB+AoG1LcvQCCW3Rrc9E=",
+        "owner": "nim-nix-pkgs",
+        "repo": "httpkit",
+        "rev": "dc18b972da1658af9d75a67ca1e7121f49c0fa97",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "httpkit",
+        "type": "github"
       }
     },
     "nixpkgs": {
