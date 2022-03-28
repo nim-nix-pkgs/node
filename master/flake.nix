@@ -11,7 +11,6 @@
   inputs.src-node-master.ref   = "refs/heads/master";
   inputs.src-node-master.owner = "tulayang";
   inputs.src-node-master.repo  = "nimnode";
-  inputs.src-node-master.dir   = "";
   inputs.src-node-master.type  = "github";
   
   inputs."httpkit".owner = "nim-nix-pkgs";
